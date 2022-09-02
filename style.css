@@ -1,0 +1,35 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table{
+    width: 400px;
+    border-collapse: collapse;
+}
+
+td{
+    border: 1px solid black;
+    padding: 8px;
+}
+td.dado{
+    background-color: pink;
+}
+tr.linha {
+    background-color: aquamarine;
+}
+td.melancia {
+    background-color: red;
+}
+td.abacaxi {
+    background-color: greenyellow;
+}
+td.uva {
+    background-color: blueviolet;
+}
+td.banana {
+    background-color: yellow;
+}
+td.vazio {
+    background-color: gray;
+}
